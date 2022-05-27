@@ -2,10 +2,10 @@
 
    <h2>Sobre:</h2>
    <h4>Sou Kleiton, tenho 34 anos, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas em 2016.👨🏻‍🎓</h4>
-   <p>Atualmente cursando pós graduação em Engenharia de Software</p>
+   <p>Apaixonado por tecnologia e desenvolvimento de softwares, app e games.</p>
    <hr>
 
-   <p>Apaixonado por tecnologia e desenvolvimento de softwares, app e games. Estou aprimorando e conhecimentos sobre:
+   <p>Atualmente venho cursando pós graduação em Engenharia de Software, além de estar aprimorando os conhecimentos sobre:
    </p>
 
    <p>
@@ -23,7 +23,7 @@
   </p>
    
    <p>
-   Além destas tecnologias, tenho alguma habilidade com <img src="https://res.cloudinary.com/teepublic/image/private/s--9abNx4j_--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1643546630/production/designs/27603047_0.jpg" height="20" width="20" alt=""> Unity e <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" height="15" width="15" alt=""> Construct 3
+   Além destas tecnologias, tenho habilidade com <img src="https://res.cloudinary.com/teepublic/image/private/s--9abNx4j_--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1643546630/production/designs/27603047_0.jpg" height="20" width="20" alt=""> Unity e <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" height="15" width="15" alt=""> Construct 3
    </p>
 
 
