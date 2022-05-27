@@ -5,6 +5,7 @@
 <p>Atualmente estudando pós graduação em Engenharia de Software</p>
 <hr>
 <p></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact)](https://github.com/KleitonMQ?tab=repositories)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleitonmq)](https://github.com/KleitonMQ?tab=repositories)
