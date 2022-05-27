@@ -20,8 +20,8 @@
    Além destas tecnologias, tenho habilidade com <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="Unity"> e <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" height="25" alt="Construct"> Construct 3
    </p>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact" alt="" height="190"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq" alt="" height="190">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact" alt="" height="150"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq" alt="" height="150">
    </p>
 
 
