@@ -1,7 +1,7 @@
    <h2>Bem vindo! 👋</h2>
 
    <h2>Sobre:</h2>
-   <h4>Sou Kleiton, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas em 2016, tenho 34 anos.👨🏻‍🎓</h4>
+   <h4>Sou Kleiton, tenho 34 anos, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas em 2016.👨🏻‍🎓</h4>
    <p>Atualmente cursando pós graduação em Engenharia de Software</p>
    <hr>
 
