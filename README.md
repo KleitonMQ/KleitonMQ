@@ -4,9 +4,10 @@
    <h4>Sou Kleiton, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas em 2016, tenho 34 anos.👨🏻‍🎓</h4>
    <p>Atualmente cursando pós graduação em Engenharia de Software</p>
    <hr>
+
    <p>Empolgado com tecnologia e desenvolvimento de softwares, app e games. Estou aprimorando e conhecimentos sobre:
    </p>
-   <div>
+
    <p>
        <img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="15" width="15">
   HTML 
@@ -25,7 +26,8 @@
   <br>
   <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="15" width="15" alt=""> GIT
   </p>
-</div>
+   
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact)](https://github.com/KleitonMQ?tab=repositories)
 
