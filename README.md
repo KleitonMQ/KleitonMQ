@@ -1,10 +1,17 @@
 <h2>Bem vindo! 👋</h2>
 
 <h2>Sobre:</h2>
-<h4>Sou Kleiton, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas, 35 anos.👨🏻‍🎓</h4>
+<h4>Sou Kleiton, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas em 2016, tenho 34 anos.👨🏻‍🎓</h4>
 <p>Atualmente cursando pós graduação em Engenharia de Software</p>
 <hr>
-<p></p>
+<p>Empolgado com tecnologia e desenvolvimento de softwares, app e games. Estou aprimorando e conhecimentos sobre:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>.NET C#</li>
+  
+  </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact)](https://github.com/KleitonMQ?tab=repositories)
 
