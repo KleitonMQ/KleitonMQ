@@ -2,7 +2,7 @@
 
 <h2>Sobre:</h2>
 <h4>Sou Kleiton, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas, 35 anos.👨🏻‍🎓</h4>
-<p>Atualmente estudando pós graduação em Engenharia de Software</p>
+<p>Atualmente cursando pós graduação em Engenharia de Software</p>
 <hr>
 <p></p>
 
