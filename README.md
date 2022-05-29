@@ -21,6 +21,7 @@
    </p>
    <h2 align="center">Principais projetos:</h2>
    <div align="center">
+   <a href="https://github.com/KleitonMQ/DIO.Series"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=DIO.Series&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/Calculagorjeta"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Calculagorjeta&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/Pokedex-Inaceitavel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Pokedex-Inaceitavel&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/Heru-Faira"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Heru-Faira&show_icons=true&theme=cobalt" alt="" height="100">
