@@ -23,7 +23,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact&show_icons=true&theme=cobalt" alt="" height="170"> 
    <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq&show_icons=true&theme=cobalt" alt="" height="170">
    </p>
-
+   
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Heru-Faira" alt="" height="170">
+   
 
 <!--
 **KleitonMQ/KleitonMQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
