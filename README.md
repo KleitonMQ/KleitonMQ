@@ -19,14 +19,18 @@
    <p>
    Além destas tecnologias, tenho habilidade com <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="Unity"> e <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" height="25" alt="Construct"> Construct 3
    </p>
+   <h2 align="center">Principais projetos:</h2>
+   <div align="center">
+   <a href="https://github.com/KleitonMQ/Calculagorjeta"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Calculagorjeta&show_icons=true&theme=cobalt" alt="" height="100">
+   <a href="https://github.com/KleitonMQ/Pokedex-Inaceitavel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Pokedex-Inaceitavel&show_icons=true&theme=cobalt" alt="" height="100">
+   <a href="https://github.com/KleitonMQ/Heru-Faira"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Heru-Faira&show_icons=true&theme=cobalt" alt="" height="100">
+   <a href="https://github.com/KleitonMQ/UnityGame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=UnityGame&show_icons=true&theme=cobalt" alt="" height="100"></a>
+    </div>
+   <br><hr>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact&show_icons=true&theme=cobalt" alt="" height="170"> 
    <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq&show_icons=true&theme=cobalt" alt="" height="170">
    </p>
-   
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Heru-Faira" alt="" height="170">
-   
-
 <!--
 **KleitonMQ/KleitonMQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
