@@ -31,6 +31,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact&show_icons=true&theme=cobalt" alt="" height="170"> 
    <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq&show_icons=true&theme=cobalt" alt="" height="170">
    </p>
+      <br><br><br>
+      <p align="right">"Cada boa ideia faz fronteira com as estúpidas".<br>(Michel Gondry)</p>
+      
 <!--
 **KleitonMQ/KleitonMQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
