@@ -5,7 +5,7 @@
    <p>Apaixonado por tecnologia e desenvolvimento de softwares, app e games.</p>
    <hr>
 
-   <p>Atualmente venho cursando pós graduação em Engenharia de Software, além de estar aprimorando os conhecimentos sobre:
+   <p>Atualmente venho cursando pós graduação em Engenharia de Software, além possuir conhecimentos sobre as tecnologias:
    </p>
 
    <p>
