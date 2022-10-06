@@ -22,14 +22,16 @@
    <h2 align="center">Principais projetos:</h2>
    
    <h2 align="center">Backend:</h2>
+   <div align="center">
    <a href="https://github.com/KleitonMQ/DIO.Series"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=DIO.Series&show_icons=true&theme=cobalt" alt="" height="100">
-   
+   </div>
    
    
    <h2 align="center">Frontend:</h2>
+   <div align="center">
    <a href="https://github.com/KleitonMQ/mundo-invertido"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=mundo-invertido&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/Pokedex-Inaceitavel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Pokedex-Inaceitavel&show_icons=true&theme=cobalt" alt="" height="100">
-   
+   </div>
    <h2 align="center">Games:</h2>
    
    
@@ -37,7 +39,6 @@
    <div align="center">
    <a href="https://github.com/KleitonMQ/Heru-Faira"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Heru-Faira&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/UnityGame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=UnityGame&show_icons=true&theme=cobalt" alt="" height="100"></a>
-   
    </div>
    <br><hr>
 <p align="center">
