@@ -1,11 +1,11 @@
    <h2 align="center">Bem vindo! 👋</h2>
 
    <h2>Sobre:</h2>
-   <h4>Sou Kleiton, tenho 35 anos, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas em 2016.👨🏻‍🎓</h4>
+   <h4>Sou Kleiton, tenho 35 anos, formado em Tecnólogo de Analise e Desenvolvimento de Sistemas.👨🏻‍🎓</h4>
    <p>Apaixonado por tecnologia e desenvolvimento de softwares, app e games.</p>
    <hr>
 
-   <p>Atualmente venho cursando pós graduação em Engenharia de Software, além possuir conhecimentos sobre as tecnologias:
+   <p>Estudante de pós graduação em Engenharia de Software. Possuo conhecimentos sobre as tecnologias:
    </p>
 
    <p>
@@ -19,7 +19,7 @@
    <p>
    Além destas tecnologias, tenho habilidade com <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="Unity"> e <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" height="25" alt="Construct"> Construct 3
    </p>
-   <h2 align="center">Principais projetos:</h2>
+   <h2 align="center">Principais Repositórios:</h2>
    
    <h2 align="center">Backend:</h2>
    <div align="center">
@@ -43,8 +43,8 @@
    </div>
    <br><hr>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact&show_icons=true&theme=cobalt" alt="" height="170"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq&show_icons=true&theme=cobalt" alt="" height="170">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmq&layout=compact&show_icons=true&theme=cobalt" alt="" height="150"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=kleitonmq&show_icons=true&theme=cobalt" alt="" height="150">
    </p>
       <br><br><br>
       <p align="right">"Cada boa ideia faz fronteira com as estúpidas".<br>(Michel Gondry)</p>
