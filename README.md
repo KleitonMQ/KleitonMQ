@@ -27,7 +27,7 @@
    <a href="https://github.com/KleitonMQ/payment-api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=payment-api&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/APIDotNet"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=APIDotNet&show_icons=true&theme=cobalt" alt="" height="100">
    <a href="https://github.com/KleitonMQ/Registro-de-Series"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=Registro-de-Series&show_icons=true&theme=cobalt" alt="" height="100">
-      
+   <a href="https://github.com/KleitonMQ/API-vendas"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=API-vendas&show_icons=true&theme=cobalt" alt="" height="100">
    </div>
    
    
