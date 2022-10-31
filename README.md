@@ -21,10 +21,10 @@
    </p>
    <h2 align="center">Principais Repositórios:</h2>
    
-   <h2 align="center">Backend:</h2>
+   <h2 align="center">Fullstack:</h2>
    <div align="center">
    <a href="https://github.com/KleitonMQ/ProjetoMVC"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kleitonmq&repo=ProjetoMVC&show_icons=true&theme=cobalt" alt="" height="100">
-   </div>
+      </div>
    
    
    <h2 align="center">Backend:</h2>
