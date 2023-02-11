@@ -5,9 +5,6 @@
    <p>Apaixonado por tecnologia e desenvolvimento de softwares, app e games.</p>
    <hr>
 
-   <p>Estudante de pós graduação em Engenharia de Software. Possuo conhecimentos sobre as tecnologias:
-   </p>
-
    <p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"height="30">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS">
